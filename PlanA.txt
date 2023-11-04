@@ -1,0 +1,180 @@
+^Electric Monitoring System
+  -Description
+    * Electric Monitoring System is a system that allows you to monitor your electric usage.
+    * it can help you save money by showing you how much electricity you are using and how much it costs.
+    * Real time monitoring allows you to see how much electricity you are using at any given time.
+    * Historical data allows you to see how much electricity that you have used over a period of time.
+    * Using the historical data you can analyze  and find ways to reduce your usage.
+    * Reduce your carbon footprint by reducing your electricity usage.
+    * In this system there are two main power sources, the grid and the solar panels.
+    * The grid is the main power source and the solar panels are the backup power source.
+    * In case of a power outage the solar panels will provide power to the system and to the house.
+    * The system will automatically switch to the solar panels when the grid goes down.
+    * Or you can manually switch to the solar panels if you want to save money.
+  -Costings
+    -How much does it cost?
+      * The cost of the system is may vary depending on the size of the system and the components used.
+      * This system is designed to be modular so you can add or remove components as needed.
+      !!! This System may be expensive but it will save you money in the long run.!!!
+    -Does small village have enough money to buy it?
+      * Yes, small village has enough money to buy it.
+      * The cost of the system is may vary depending on the size of the system and the components used.
+    -Does compony will introduce it to the market?
+      * ??
+  -Components
+    -What are the components?
+      * The components are the parts that make up the system.
+    -What Are this components?
+      * Electric Meter
+      * Solar Panels
+      * Inverter
+      * Battery
+      * Charge Controller
+      * Power Supply
+      * Circuit Breaker
+      * Fuse
+      * Switch
+      * Relay
+      * Sensor
+      * Display
+      -Addons 
+        * Addons are components that are not part of the main system but can be added to the system.
+        * Addons are optional and can be added or removed as needed.
+        * Addons can be used to add additional functionality to the system.-Examples of addons are:
+          * Smart bulb
+          * Smart plug
+          * Smart switch
+          * Smart outlet
+          !!! Addons are not required to use the system.!!! 
+  -Basics
+    -What is it?
+        -What is it?
+        -How does it work?
+        -What are the benefits?
+    -How to install
+        -What do I need?
+        -How do I install it?
+        -How do I use it?
+    -How to maintain
+        -What do I need to do?
+        -How often do I need to do it?
+        -How do I do it?
+    -How to troubleshoot
+        -What do I do if it breaks?
+        -How do I fix it?
+        -How do I prevent it from breaking again?
+    -How to upgrade
+        -What do I need to upgrade?
+        -How do I upgrade it?
+        -What are the benefits of upgrading?
+    -How to replace
+        -What do I need to replace?
+        -How do I replace it?
+        -What are the benefits of replacing it?
+    -How to remove
+        -What do I need to remove?
+        -How do I remove it?
+        -What are the benefits of removing it?
+    -How to add
+        -What do I need to add?
+        -How do I add it?
+        -What are the benefits of adding it?
+    -How to repair
+        -What do I need to repair?
+        -How do I repair it?
+        -What are the benefits of repairing it?
+  -Features
+    -What are the features?
+      -Addons
+        -What are addons?
+          -Adding controls
+            -What are controls?
+              * Controls are things that allow you to control the sub-system, power source, unit, and component.
+            -How do I add them?
+              * You can add controls by adding a control panel to the system.
+            -What are the benefits of adding them?
+              * Controls allow you to control the sub-system, power source, unit, and component.
+              * Reducing the power usage.
+    -How do I use them?
+      * You can read a manual for each component.
+    -What are the benefits of using them?
+      * It can help you to fully control the system.
+  -Web Interface
+    -What is it?
+      * The web interface is a web page that allows you to control the system.
+    -How do I use it?
+      * You can use it by opening a web browser and going to the web page.
+    -What are the benefits of using it?
+      * It can help you to fully control the system online from anywhere.
+  -Mobile App !!! mobile app will not be included in the first version of the system !!!
+  
+  -Setup
+    -STEP 1: Install the system
+      -Setup the system
+        -What do I need to do?
+          * You need to install the components.
+            => Install the electric meter
+            => Install the solar panels
+            => Install the inverter
+            => Install the battery
+            => Install the charge controller
+            => Install the power supply
+            => Install the circuit breaker
+            => Install the fuse
+            => Install the switch
+            => Install the relay
+            => Install the sensor
+            => Install the display
+        -How do I do it?
+          * There will be a manual for each component.
+    -STEP 2: Connect the system to the internet
+        -What do I need to do?
+          * You need to connect the system to the internet to use the web interface nad make it live.
+        -How do I do it?
+          * You can connect the system to the internet by connecting it to a router or modem make sure that the router or modem is connected to the internet. Else you can still use the system locally.
+    -STEP 3: Configure the system
+        -What do I need to do?
+          * You need to configure the system to work with your house.
+        -How do I do it?
+          * You can configure the system by using the web interface.
+    -STEP 4: Use the system
+        -What do I need to do?
+          * After configure, you can use the system but you need to create account online to use online features.
+        -How do I do it?
+          * You can use the system by using the web interface.
+          * Create account and Login.
+          * Sync the system with your account.
+    -STEP 5: Maintain the system
+        -What do I need to do?
+          * You need to maintain the system to keep it working properly.
+        -How do I do it?
+          * You can maintain the system by using the web interface.
+
+  -other
+    * The system is designed to give exact ammount of bills, taxes, and other expenses.
+    * Nowaday, every house has a meter to measure the electricity usage but they cant see the exact ammount of bills, taxes, and other expenses that they have to pay for the electricity usage.
+    * And Every households are paying more than they should be paying for the electricity usage.
+    * Thats why we created this system to help people save money by showing them the exact ammount of bills, taxes, and other expenses that they have to pay for the electricity usage.
+    * Most households are using smart devices, why not integrate them into the system where they can be controlled and monitored there electricity usage.
+
+  !!! The Design is Very Human. !!!
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+

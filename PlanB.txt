@@ -1,0 +1,9 @@
+^Agricultural corp System
+  -Description
+    * Agricultural corp System is a system that allows you to monitor your agricultural corp.
+    * You can monitor the temperature, humidity, and soil moisture of the agricultural corp.
+    * You can also monitor the growth of the agricultural corp.
+    * It is also notify you the medicine and water supply time of the agricultural corp.
+
+
+
